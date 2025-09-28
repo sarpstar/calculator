@@ -12,3 +12,5 @@ python calculator.py
 - subtract(a, b)
 - multiply(a, b)
 - divide(a, b)
+
+Ekstra satır: Bu değişiklik update-readme branch’inde yapıldı.
